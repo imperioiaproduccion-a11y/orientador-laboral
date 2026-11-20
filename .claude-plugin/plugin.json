@@ -1,0 +1,17 @@
+{
+  "name": "orientador-laboral",
+  "version": "0.6.1",
+  "description": "Orientador laboral activo: lee tu currículum y tu formación, rastrea cada día boletines oficiales, bolsas de empleo, trabajo temporal y portales públicos y privados, te guía paso a paso para inscribirte y te indica la formación que necesitas para optar a más ofertas.",
+  "author": {
+    "name": "Orientador laboral"
+  },
+  "keywords": [
+    "empleo",
+    "orientación laboral",
+    "oposiciones",
+    "BOE",
+    "boletines oficiales",
+    "bolsas de empleo",
+    "servicios públicos de empleo"
+  ]
+}
